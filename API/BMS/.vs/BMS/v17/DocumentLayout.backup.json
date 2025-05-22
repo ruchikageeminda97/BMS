@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|c:\\users\\ruchi\\onedrive\\desktop\\bms\\bookmanagement\\api\\bms\\bms\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|solutionrelative:bms\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Migrations\\20250522080416_AddUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BMS\\Migrations\\20250522080416_AddUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|c:\\users\\ruchi\\onedrive\\desktop\\bms\\bookmanagement\\api\\bms\\bms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|solutionrelative:bms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|c:\\users\\ruchi\\onedrive\\desktop\\bms\\bookmanagement\\api\\bms\\bms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|solutionrelative:bms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|c:\\users\\ruchi\\onedrive\\desktop\\bms\\bookmanagement\\api\\bms\\bms\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|solutionrelative:bms\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|c:\\users\\ruchi\\onedrive\\desktop\\bms\\bookmanagement\\api\\bms\\bms\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|solutionrelative:bms\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Migrations\\20250522064528_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BMS\\Migrations\\20250522064528_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|c:\\users\\ruchi\\onedrive\\desktop\\bms\\bookmanagement\\api\\bms\\bms\\bms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|solutionrelative:bms\\bms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|c:\\users\\ruchi\\onedrive\\desktop\\bms\\bookmanagement\\api\\bms\\bms\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|solutionrelative:bms\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|c:\\users\\ruchi\\onedrive\\desktop\\bms\\bookmanagement\\api\\bms\\bms\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|solutionrelative:bms\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|c:\\users\\ruchi\\onedrive\\desktop\\bms\\bookmanagement\\api\\bms\\bms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|solutionrelative:bms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|c:\\users\\ruchi\\onedrive\\desktop\\bms\\bookmanagement\\api\\bms\\bms\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|solutionrelative:bms\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|c:\\users\\ruchi\\onedrive\\desktop\\bms\\bookmanagement\\api\\bms\\bms\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|solutionrelative:bms\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|c:\\users\\ruchi\\onedrive\\desktop\\bms\\bookmanagement\\api\\bms\\bms\\bms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|solutionrelative:bms\\bms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Migrations\\20250522063315_initial migrations1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,6 +49,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|c:\\users\\ruchi\\onedrive\\desktop\\bms\\bookmanagement\\api\\bms\\bms\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|solutionrelative:bms\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|c:\\users\\ruchi\\onedrive\\desktop\\bms\\bookmanagement\\api\\bms\\bms\\migrations\\20250522064528_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A72F34-A2F2-4570-A1CE-52E17CDCD7ED}|BMS\\BMS.csproj|solutionrelative:bms\\migrations\\20250522064528_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,41 +62,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250522064528_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Migrations\\20250522064528_InitialCreate.cs",
-              "RelativeDocumentMoniker": "BMS\\Migrations\\20250522064528_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Migrations\\20250522064528_InitialCreate.cs",
-              "RelativeToolTip": "BMS\\Migrations\\20250522064528_InitialCreate.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20250522080416_AddUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Migrations\\20250522080416_AddUserTable.cs",
+              "RelativeDocumentMoniker": "BMS\\Migrations\\20250522080416_AddUserTable.cs",
+              "ToolTip": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Migrations\\20250522080416_AddUserTable.cs",
+              "RelativeToolTip": "BMS\\Migrations\\20250522080416_AddUserTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T06:45:29.159Z",
+              "WhenOpened": "2025-05-22T08:04:16.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BMS\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "BMS\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:02:28.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BMS\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BMS\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:02:12.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "BMS\\Controllers\\BooksController.cs",
               "ToolTip": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Controllers\\BooksController.cs",
               "RelativeToolTip": "BMS\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAUwBUBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T06:43:24.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "20250522063315_initial migrations1.cs",
               "DocumentMoniker": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Migrations\\20250522063315_initial migrations1.cs",
               "RelativeDocumentMoniker": "BMS\\Migrations\\20250522063315_initial migrations1.cs",
@@ -92,12 +126,11 @@
               "RelativeToolTip": "BMS\\Migrations\\20250522063315_initial migrations1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T06:33:16.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T06:33:16.01Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\appsettings.json",
               "RelativeDocumentMoniker": "BMS\\appsettings.json",
@@ -116,14 +149,14 @@
               "RelativeDocumentMoniker": "BMS\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "BMS\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T05:39:19.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Models\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "BMS\\Models\\Entities\\Book.cs",
@@ -131,38 +164,48 @@
               "RelativeToolTip": "BMS\\Models\\Entities\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T05:22:16.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T05:22:16.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Program.cs",
               "RelativeDocumentMoniker": "BMS\\Program.cs",
               "ToolTip": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Program.cs",
               "RelativeToolTip": "BMS\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwC0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T05:16:10.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BMS",
+              "DocumentIndex": 12,
+              "Title": "20250522064528_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Migrations\\20250522064528_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BMS\\Migrations\\20250522064528_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Migrations\\20250522064528_InitialCreate.cs",
+              "RelativeToolTip": "BMS\\Migrations\\20250522064528_InitialCreate.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:45:29.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BMS.csproj",
               "DocumentMoniker": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\BMS.csproj",
               "RelativeDocumentMoniker": "BMS\\BMS.csproj",
               "ToolTip": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\BMS.csproj",
               "RelativeToolTip": "BMS\\BMS.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-22T05:14:23.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T05:14:23.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BMS\\Properties\\launchSettings.json",
@@ -170,12 +213,11 @@
               "RelativeToolTip": "BMS\\Properties\\launchSettings.json",
               "ViewState": "AgIAABQAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T05:14:42.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T05:14:42.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\ruchi\\OneDrive\\Desktop\\BMS\\BookManagement\\API\\BMS\\BMS\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "BMS\\Controllers\\WeatherForecastController.cs",
@@ -183,8 +225,7 @@
               "RelativeToolTip": "BMS\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T05:15:28.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T05:15:28.275Z"
             }
           ]
         }

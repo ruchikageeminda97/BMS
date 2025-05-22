@@ -16,11 +16,9 @@ namespace BMS.Controllers
             _context = context;
         }
 
-        // GET
         [HttpGet]
         public async Task<ActionResult> GetBooks([FromQuery] int pageNumber = 1, [FromQuery] int pageSize = 10)
         {
-            // Validate pagination 
             if (pageNumber < 1)
             {
                 return BadRequest(new { message = "Page number must be greater than or equal to 1." });
@@ -33,7 +31,6 @@ namespace BMS.Controllers
 
             try
             {
-                // Get total count of books
                 var totalBooks = await _context.Books.CountAsync();
 
                 if (totalBooks == 0)
@@ -49,16 +46,13 @@ namespace BMS.Controllers
                     });
                 }
 
-                // Calculate total pages
                 var totalPages = (int)Math.Ceiling(totalBooks / (double)pageSize);
 
-                // Fetch paginated data
                 var books = await _context.Books
                     .Skip((pageNumber - 1) * pageSize)
                     .Take(pageSize)
                     .ToListAsync();
 
-                // Return response
                 return Ok(new
                 {
                     message = "Books retrieved successfully.",
@@ -75,7 +69,6 @@ namespace BMS.Controllers
             }
         }
 
-        // GET: api/books/{id}
         [HttpGet("{id}")]
         public async Task<ActionResult<Book>> GetBook(Guid id)
         {
@@ -94,7 +87,6 @@ namespace BMS.Controllers
             return Ok(new { message = $"Book with ID {id} retrieved successfully.", data = book });
         }
 
-        // POST: api/books
         [HttpPost]
         public async Task<ActionResult<Book>> CreateBook(Book book)
         {
@@ -127,7 +119,6 @@ namespace BMS.Controllers
             }
         }
 
-        // PUT: api/books/{id}
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateBook(Guid id, Book book)
         {
@@ -174,7 +165,6 @@ namespace BMS.Controllers
             }
         }
 
-        // DELETE: api/books/{id}
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteBook(Guid id)
         {
